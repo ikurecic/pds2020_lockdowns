@@ -1,5 +1,5 @@
 # pds2020_lockdowns
-As part of the Political Data Science course held at the Technical University of Munich in 2020, Linlin Chen and I looked at the causes of COVID-19 lockdown policies in US states using a panel data analysis.
+As part of the Political Data Science course held at the Technical University of Munich in 2020, [Linlin Chen](https://github.com/lcunicorn) and I ([Ivana Kurecic](https://github.com/ikurecic)) looked at the causes that led to the enforcement of COVID-19 lockdown policies in US states using a panel data analysis.
 
 The dataset we used contained a variables we could collect from publicly available sources, including the CoronaNet Research Project (policy data), Data Repository by the CSSE at Johns Hopkins University (daily COVID-19 deaths per US state), US Bureau of Labor Statistics (new weekly unemployment claims), US Bureau of Economic Analysis (GDP per capita for each US state), and the US Census Bureau (regionality of US states).
 
